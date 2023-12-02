@@ -1,6 +1,9 @@
 # C322.p10.SensorsGestures
 This project functions as a sensor display and gestures playground
 
+## Testing Link
+Developer account under review, will upload asap
+
 ## Functionality 
 The following **required** functionality is completed:
 * [] user is asked location permission
